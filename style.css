@@ -1,6 +1,6 @@
 body{
 
-    background-image: url('img/download.jpg');
+    background-image: url('download.jpg');
     font-family: Arial;
     }
     
@@ -94,7 +94,7 @@ width: 380px;
 height: 50px;
 border-radius: 5px;
 color: white;
-background-image: url(img/download.jpg);
+background-image: url(download.jpg);
 cursor: pointer;
 transition: transform 200ms ease-in-out;
 
